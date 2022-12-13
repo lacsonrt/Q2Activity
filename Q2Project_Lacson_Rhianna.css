@@ -1,0 +1,103 @@
+body{
+	background-color: #939EA9;
+	font-family: Adobe Heiti Std;
+	margin: 100px 100px 100px;
+}
+
+img:hover{
+	opacity: 1;
+}
+
+h1{
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	color: #CB4747;
+	text-shadow: #F3EFE0 2px 2px 2px ;
+}
+
+h2{
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-decoration: underline;
+
+}
+.Meal{
+	font-family: Adobe Heiti Std;
+
+}
+
+.ChickenBBM{
+	padding: 15px;
+	border-radius: 50px;
+	border-style: dashed;
+	border-width: 4px 4px;
+	border-color: #F2DEBA;
+	opacity: .80;
+}
+
+.BeefBBM{
+	padding: 15px;
+	border-radius: 50px;
+	border-style: dashed;
+	border-width: 4px 4px;
+	border-color: #F2DEBA;
+	opacity: .80;
+}
+
+.SeafoodBBM{
+	padding: 15px;
+	border-radius: 50px;
+	border-style: dashed;
+	border-width: 4px 4px;
+	border-color: #F2DEBA;
+	opacity: .80;
+}
+
+.LoadedBBM{
+	padding: 15px;
+	border-radius: 50px;
+	border-style: dashed;
+	border-width: 4px 4px;
+	border-color: #F2DEBA;
+	opacity: .80;
+}
+.CM1{
+	padding: 15px;
+	border-radius: 50px;
+	border-style: dashed;
+	border-width: 4px 4px;
+	border-color: #F2DEBA;
+	opacity: .80;
+}
+
+.SM1{
+	padding: 15px;
+	border-radius: 50px;
+	border-style: dashed;
+	border-width: 4px 4px;
+	border-color: #F2DEBA;
+	opacity: .80;
+}
+
+.S2{
+	padding: 15px;
+	border-radius: 50px;
+	border-style: dashed;
+	border-width: 4px 4px;
+	border-color: #F2DEBA;
+	opacity: .80;
+}
+
+.CM1{
+	padding: 15px;
+	border-radius: 50px;
+	border-style: dashed;
+	border-width: 4px 4px;
+	border-color: #F2DEBA;
+	opacity: .80;
+}
+
+footer{
+	color: white;
+	font-family: sans-serif;
+}
